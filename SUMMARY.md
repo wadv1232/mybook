@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 * [第1章 预备知识](chapter1.md)
   * [环境搭建](chapter1/huan-jing-da-jian.md)
-  * 基本数据操作
-  * 多元微分偏导
+  * [基本数据操作](chapter1/ji-ben-shu-ju-cao-zuo.md)
+  * [多元微分偏导](chapter1/duo-yuan-wei-fen-pian-dao.md)
 * [第2章 深度学习基础](di-2-zhang-ji-qi-xue-xi-ji-chu.md)
 * [第3章 深度学习计算](di-san-zhang-shen-du-xue-xi.md)
 * [第4章 卷积神经网络](juan-ji-shen-jing-wang-luo.md)
