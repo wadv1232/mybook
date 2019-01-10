@@ -12,7 +12,7 @@
 * [第2章 机器学习基础](di-2-zhang-ji-qi-xue-xi-ji-chu.md)
   * [机器学习概述](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-gai-shu.md)
   * [机器学习基本框架](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-ji-ben-kuang-jia.md)
-    * 线性模型
+    * [线性模型](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-ji-ben-kuang-jia/xian-xing-mo-xing.md)
   * [机器学习思想](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-si-xiang.md)
   * [深度学习基础](di-2-zhang-ji-qi-xue-xi-ji-chu/shen-du-xue-xi-ji-chu.md)
     * [pooling](di-2-zhang-ji-qi-xue-xi-ji-chu/shen-du-xue-xi-ji-chu/pooling.md)
