@@ -11,10 +11,11 @@
   * [基本数据操作](chapter1/ji-ben-shu-ju-cao-zuo.md)
 * [第2章 机器学习基础](di-2-zhang-ji-qi-xue-xi-ji-chu.md)
   * [机器学习概述](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-gai-shu.md)
-  * 机器学习基本框架
-  * 机器学习思想
+  * [机器学习基本框架](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-ji-ben-kuang-jia.md)
+    * 线性模型
+  * [机器学习思想](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-si-xiang.md)
   * [深度学习基础](di-2-zhang-ji-qi-xue-xi-ji-chu/shen-du-xue-xi-ji-chu.md)
-    * pooling
+    * [pooling](di-2-zhang-ji-qi-xue-xi-ji-chu/shen-du-xue-xi-ji-chu/pooling.md)
 * [第3章 深度学习计算](di-san-zhang-shen-du-xue-xi.md)
 * [第4章 卷积神经网络](juan-ji-shen-jing-wang-luo.md)
 * [第5章 循环神经网络](di-5-zhang-xun-huan-shen-jing-wang-luo.md)
