@@ -6,6 +6,8 @@
   * [矩阵基础](chapter1/ju-zhen-ji-chu.md)
   * [统计基础](chapter1/tong-ji-ji-chu.md)
   * [多元微分偏导](chapter1/duo-yuan-wei-fen-pian-dao.md)
+    * 牛顿法
+    * 梯度下降
   * [基本数据操作](chapter1/ji-ben-shu-ju-cao-zuo.md)
 * [第2章 机器学习基础](di-2-zhang-ji-qi-xue-xi-ji-chu.md)
   * 机器学习概述
