@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [第1章 预备知识](chapter1.md)
   * [环境搭建](chapter1/huan-jing-da-jian.md)
   * [基本数据操作](chapter1/ji-ben-shu-ju-cao-zuo.md)
