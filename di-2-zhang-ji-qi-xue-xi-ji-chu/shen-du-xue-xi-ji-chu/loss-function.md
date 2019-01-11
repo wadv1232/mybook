@@ -8,7 +8,7 @@
 
 无监督学习中的LDA LDA的思想可以用一句话概括，就是“投影后类内方差最小，类间方差最大”
 
-
+同类差异下，类间差异大，瑞丽熵Rayleigh quotient
 
 即 保证 $$f = argmin \sum(|f(x_i,x_j) - f(x_i,y_j)|)$$
 
