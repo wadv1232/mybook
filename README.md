@@ -16,6 +16,10 @@
 
 ## 什么是机器学习？
 
+[Machine learning \(ML\)](https://en.wikipedia.org/wiki/Machine_learning) is the scientific study of algorithms and statistical models that computer systems use to progressively improve their performance on a specific task.
+
+A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.
+
 ## 机器怎么学习？机器学习的途径？
 
 ## 思考
