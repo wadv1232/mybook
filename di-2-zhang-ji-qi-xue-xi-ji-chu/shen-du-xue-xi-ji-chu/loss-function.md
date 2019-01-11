@@ -10,5 +10,13 @@
 
 同类差异下，类间差异大，瑞丽熵Rayleigh quotient
 
-即 保证 $$f = argmin \sum(|f(x_i,x_j) - f(x_i,y_j)|)$$
+即 保证 $$f = argmax \sum(\frac{||f(x_i,x_j) - f(x_i,y_j)||}{||f(x_i,x_j)+f(x_i,y_j)||}$$
+
+# 常用损失函数
+
+## Mean Squared Error
+
+
+
+
 
