@@ -8,15 +8,16 @@
         "search-plus",       
         "splitter",               
         "tbfed-pagefooter",    
-        "expandable-chapters-small"     
+        "expandable-chapters-small",
+		"katex"		
     ],
     "pluginsConfig": {
         "theme-default": {
-            "showLevel": true
+            "showLevel": false
         },
         "tbfed-pagefooter": {
             "copyright":"Copyright &copy w&h",
-            "modify_label": "该文件修订时间：",
+            "modify_label": "修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     },
