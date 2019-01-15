@@ -18,6 +18,7 @@
     * [Loss Function](di-2-zhang-ji-qi-xue-xi-ji-chu/shen-du-xue-xi-ji-chu/loss-function.md)
     * [pooling](di-2-zhang-ji-qi-xue-xi-ji-chu/shen-du-xue-xi-ji-chu/pooling.md)
 * [第3章 深度学习计算](di-san-zhang-shen-du-xue-xi.md)
+  * [pytorch设计](di-san-zhang-shen-du-xue-xi/pytorchshe-ji.md)
 * [第4章 卷积神经网络](juan-ji-shen-jing-wang-luo.md)
 * [第5章 循环神经网络](di-5-zhang-xun-huan-shen-jing-wang-luo.md)
 * [第6章 优化算法](di-6-zhang-you-hua-suan-fa.md)
