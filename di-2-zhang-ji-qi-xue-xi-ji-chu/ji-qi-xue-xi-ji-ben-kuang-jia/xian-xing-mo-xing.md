@@ -169,7 +169,8 @@ w, b
          [-3.3999]], requires_grad=True), tensor([4.2000], requires_grad=True))
 ```
 
-## 直接使用公式 
+## 直接使用公式
+
 $$ w = (X^TX)^{-1}X^Ty$$
 
 ```python
