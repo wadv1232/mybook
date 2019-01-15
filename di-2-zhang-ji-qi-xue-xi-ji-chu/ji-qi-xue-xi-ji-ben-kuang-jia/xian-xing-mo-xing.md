@@ -284,5 +284,5 @@ list(net.parameters())
 
 ```
 
-![](/assets/newplot.png)
+![loss](/assets/newplot.png)
 
