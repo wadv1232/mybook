@@ -19,6 +19,8 @@ class LeNet(nn.Module):
             nn.Linear(50 * 4 * 4, 500),
             nn.ReLU(inplace=True),
             nn.Linear(500, 10),
+            nn.softmax()
+
         )
 
     def forward(self, x):
@@ -26,20 +28,9 @@ class LeNet(nn.Module):
         x = x.view(x.size(0), 50 * 4 * 4)
         x = self.classifier(x)
         return x
-
 ```
 
-
-
-
-
-
-
 # AlexNet
-
-
-
-
 
 
 
