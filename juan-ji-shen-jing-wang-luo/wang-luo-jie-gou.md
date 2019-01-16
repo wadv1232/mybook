@@ -20,7 +20,6 @@ class LeNet(nn.Module):
             nn.ReLU(inplace=True),
             nn.Linear(500, 10),
             nn.softmax()
-
         )
 
     def forward(self, x):
