@@ -9,6 +9,7 @@
     * [牛顿法](chapter1/duo-yuan-wei-fen-pian-dao/niu-dun-fa.md)
     * [梯度下降](chapter1/duo-yuan-wei-fen-pian-dao/ti-du-xia-jiang.md)
   * [基本数据操作](chapter1/ji-ben-shu-ju-cao-zuo.md)
+  * [度量](chapter1/du-liang.md)
 * [第2章 机器学习基础](di-2-zhang-ji-qi-xue-xi-ji-chu.md)
   * [机器学习概述](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-gai-shu.md)
   * [机器学习基本框架](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-ji-ben-kuang-jia.md)
@@ -20,6 +21,7 @@
     * 反向传播
 * [第3章 深度学习计算](di-san-zhang-shen-du-xue-xi.md)
   * [pytorch设计](di-san-zhang-shen-du-xue-xi/pytorchshe-ji.md)
+  * [pytorch自定义](di-san-zhang-shen-du-xue-xi/pytorchzi-ding-yi.md)
 * [第4章 卷积神经网络](juan-ji-shen-jing-wang-luo.md)
   * [网络结构](juan-ji-shen-jing-wang-luo/wang-luo-jie-gou.md)
 * [第5章 循环神经网络](di-5-zhang-xun-huan-shen-jing-wang-luo.md)
