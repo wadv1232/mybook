@@ -32,7 +32,7 @@
   * [object detect](di-8-zhang-ji-suan-ji-shi-jue/object-detect.md)
 * [第9章 自然语言处理](di-9-zhang-zi-ran-yu-yan-chu-li.md)
 * [第10章 GAN](di-10-zhang-gan.md)
-  * [GAN theory](di-10-zhang-gan/gan-theory.md)
+  * [GAN theory](di-10-zhang-gan/gan-theory-01.md)
   * [conditional Generation ](di-10-zhang-gan/gan-theory.md)
 * [第11章 深度强化学习](di-11-zhang-shen-du-qiang-hua-xue-xi.md)
 
