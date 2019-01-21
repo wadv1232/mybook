@@ -8,3 +8,15 @@ $$D^* =\mathop{\arg\max}_{D}V(D,G)$$
 
 ![](/assets/gan-algorithm-theory.png)
 
+
+
+```
+
+```
+
+
+
+
+
+
+
