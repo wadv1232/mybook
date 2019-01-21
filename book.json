@@ -5,8 +5,8 @@
     "plugins": [
         "-lunr", 
         "-search", 
-        "search-plus",       
-        "splitter",               
+        "search-plus",
+        "-splitter",               
         "tbfed-pagefooter",    
         "expandable-chapters-small",
 		"katex"		
