@@ -1,6 +1,6 @@
 `torch.utils.data.Dataset`
 
-抽象类，派生类需要重载` __len__ `和` __getitem__ `
+抽象类，派生类需要重载`__len__`和`__getitem__`
 
 ```
 def __len__(self):

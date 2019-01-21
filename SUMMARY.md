@@ -12,6 +12,7 @@
   * [度量](chapter1/du-liang.md)
 * [第2章 机器学习基础](di-2-zhang-ji-qi-xue-xi-ji-chu.md)
   * [机器学习概述](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-gai-shu.md)
+    * [误差](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-gai-shu/wu-cha.md)
   * [机器学习基本框架](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-ji-ben-kuang-jia.md)
     * [线性模型](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-ji-ben-kuang-jia/xian-xing-mo-xing.md)
   * [机器学习思想](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-si-xiang.md)
@@ -37,4 +38,5 @@
   * [GAN theory](di-10-zhang-gan/gan-theory-01.md)
   * [conditional Generation ](di-10-zhang-gan/gan-theory.md)
 * [第11章 深度强化学习](di-11-zhang-shen-du-qiang-hua-xue-xi.md)
+* [第12章 模型可解释性](di-12-zhang-mo-xing-ke-jie-shi-xing.md)
 
