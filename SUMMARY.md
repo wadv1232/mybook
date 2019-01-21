@@ -23,6 +23,7 @@
 * [第3章 深度学习计算](di-san-zhang-shen-du-xue-xi.md)
   * [pytorch设计](di-san-zhang-shen-du-xue-xi/pytorchshe-ji.md)
   * [pytorch自定义](di-san-zhang-shen-du-xue-xi/pytorchzi-ding-yi.md)
+  * [pytorch 数据模块](di-san-zhang-shen-du-xue-xi/pytorch-shu-ju-mo-kuai.md)
 * [第4章 卷积神经网络](juan-ji-shen-jing-wang-luo.md)
   * [网络结构](juan-ji-shen-jing-wang-luo/wang-luo-jie-gou.md)
 * [第5章 循环神经网络](di-5-zhang-xun-huan-shen-jing-wang-luo.md)
