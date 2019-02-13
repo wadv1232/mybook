@@ -21,6 +21,7 @@
     * [Loss Function](di-2-zhang-ji-qi-xue-xi-ji-chu/shen-du-xue-xi-ji-chu/loss-function.md)
     * [pooling](di-2-zhang-ji-qi-xue-xi-ji-chu/shen-du-xue-xi-ji-chu/pooling.md)
     * [反向传播](di-2-zhang-ji-qi-xue-xi-ji-chu/shen-du-xue-xi-ji-chu/fan-xiang-chuan-bo.md)
+    * [BatchNormal](di-2-zhang-ji-qi-xue-xi-ji-chu/shen-du-xue-xi-ji-chu/batchnormal.md)
 * [第3章 深度学习计算](di-san-zhang-shen-du-xue-xi.md)
   * [pytorch设计](di-san-zhang-shen-du-xue-xi/pytorchshe-ji.md)
   * [pytorch自定义](di-san-zhang-shen-du-xue-xi/pytorchzi-ding-yi.md)
