@@ -23,7 +23,7 @@ class C_MSELoss(nn.Module):
         self.func = func
         self.powerparam = powerparams
     def forward(self, y_pred, y):
-        return torch.mean(self.func((y_pred-y),2)
+        return torch.mean(self.func((y_pred-y),self.powerparam)
 ```
 
 1. 继承于nn.autograd.function
@@ -61,6 +61,12 @@ class MyReLU(torch.autograd.Function):
     grad_x[x < 0] = 0
     return grad_x
 ```
+
+# 自定义初始化参数
+
+# 不同层之间参数共享
+
+
 
 
 
