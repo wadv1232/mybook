@@ -13,6 +13,7 @@
 * [第2章 机器学习基础](di-2-zhang-ji-qi-xue-xi-ji-chu.md)
   * [机器学习概述](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-gai-shu.md)
     * [误差](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-gai-shu/wu-cha.md)
+    * [评估](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-gai-shu/ping-gu.md)
   * [机器学习基本框架](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-ji-ben-kuang-jia.md)
     * [线性模型](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-ji-ben-kuang-jia/xian-xing-mo-xing.md)
   * [机器学习思想](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-si-xiang.md)
