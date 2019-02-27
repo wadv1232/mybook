@@ -41,4 +41,6 @@
 * [第11章 深度强化学习](di-11-zhang-shen-du-qiang-hua-xue-xi.md)
 * [第12章 模型可解释性](di-12-zhang-mo-xing-ke-jie-shi-xing.md)
   * [SHapley Additive exPlantions \(SHAP\)](di-12-zhang-mo-xing-ke-jie-shi-xing/shapley-additive-explantions-shap.md)
+* [第13章 实战](di-13-zhang-shi-zhan.md)
+  * [Airbus Ship Detection Challenge](di-13-zhang-shi-zhan/airbus-ship-detection-challenge.md)
 
