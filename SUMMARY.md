@@ -10,6 +10,7 @@
     * [梯度下降](chapter1/duo-yuan-wei-fen-pian-dao/ti-du-xia-jiang.md)
   * [基本数据操作](chapter1/ji-ben-shu-ju-cao-zuo.md)
   * [度量](chapter1/du-liang.md)
+  * [最优化问题](chapter1/zui-you-hua-wen-ti.md)
 * [第2章 机器学习基础](di-2-zhang-ji-qi-xue-xi-ji-chu.md)
   * [机器学习概述](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-gai-shu.md)
     * [误差](di-2-zhang-ji-qi-xue-xi-ji-chu/ji-qi-xue-xi-gai-shu/wu-cha.md)
