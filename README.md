@@ -22,6 +22,14 @@ A computer program is said to learn from experience E with respect to some class
 
 ## 机器怎么学习？机器学习的途径？
 
+## 机器学习分类
+
+At the most fundamental level, machine learning can be categorized into two main types: supervised learning and unsupervised learning.
+
+_Supervised learning_involves somehow modeling the relationship between measured features of data and some label associated with the data; once this model is determined, it can be used to apply labels to new, unknown data. This is further subdivided into_classification_tasks and_regression_tasks: in classification, the labels are discrete categories, while in regression, the labels are continuous quantities. We will see examples of both types of supervised learning in the following section.
+
+_Unsupervised learning_involves modeling the features of a dataset without reference to any label, and is often described as "letting the dataset speak for itself." These models include tasks such as_clustering_and_dimensionality reduction._Clustering algorithms identify distinct groups of data, while dimensionality reduction algorithms search for more succinct representations of the data.
+
 ## 思考
 
 纸上得来终觉浅，心中悟出始知深
